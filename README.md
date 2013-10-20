@@ -1,4 +1,3 @@
-
 # notatka z laboratorium
 ``` sh
 mkdir katalog1
@@ -8,3 +7,5 @@ mkdir katalog1
 int main() {
 return 0;
 }
+
+jpjpjpjp
