@@ -7,8 +7,11 @@ int main(){
     printf("Podaj element tablic numer %d: \n", i);
     scanf("%d", &tab[i]);
   }
+  for (i = 0; i <= 4; i = i + 1){
+    printf("tab1[%d] = %d\n",i,tab[i]);
+  }
  for (i = 0; i <= 4; i++){
-   tab1[i] = tab[i];
+   tab1[i] =2*tab[i];
     printf("tab1[%d] = %d \n",i, tab1[i]);
       }
   return 0;
